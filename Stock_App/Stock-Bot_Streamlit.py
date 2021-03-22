@@ -1,3 +1,5 @@
+sudo apt-get install python3-bs4
+
 # Importing streamlit 
 import streamlit as st
 import streamlit.components as stc
